@@ -4,7 +4,6 @@
     <list default="true" id="868c37ad-e707-44ef-a95c-0a3b7c64065a" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/leetcode/arrays/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/leetcode/arrays/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/leetcode/arrays/RotateArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/leetcode/arrays/RotateArray.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -29,7 +28,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../projects/job4j_design" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
   </component>
   <component name="RunDashboard">
@@ -44,7 +43,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.leetcode.strings.Main" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.leetcode.strings.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.leetcode.arrays.Main" />
       <module name="leetcode" />
@@ -61,6 +73,7 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Main (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -74,7 +87,18 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1588518698178</updated>
-      <workItem from="1588518702437" duration="4365000" />
+      <workItem from="1588518702437" duration="4523000" />
+      <workItem from="1588598174707" duration="983000" />
+      <workItem from="1588612555794" duration="1627000" />
+      <workItem from="1588617019554" duration="762000" />
+      <workItem from="1588683221745" duration="8821000" />
+      <workItem from="1588765382639" duration="1762000" />
+      <workItem from="1588776740764" duration="388000" />
+      <workItem from="1588889171473" duration="437000" />
+      <workItem from="1588891703514" duration="179000" />
+      <workItem from="1589037146841" duration="4972000" />
+      <workItem from="1589113163225" duration="3098000" />
+      <workItem from="1589202809312" duration="35000" />
     </task>
     <servers />
   </component>
@@ -86,10 +110,68 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/leetcode/arrays/DecompressRunLengthEncodedList.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/leetcode/arrays/DecompressRunLengthEncodedList.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/leetcode/arrays/CreateTargetArrayInTheGivenOrder.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/leetcode/arrays/MajorityElement.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/leetcode/arrays/CellsWithOddValuesInAMatrix.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/leetcode/arrays/CellsWithOddValuesInAMatrix.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/leetcode/arrays/ReplaceElementsWithGreatestElementOnRightSide.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/leetcode/arrays/FindTheTownJudge.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/leetcode/arrays/FindTheTownJudge.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/leetcode/arrays/FindTheTownJudge.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
