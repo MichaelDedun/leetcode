@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="868c37ad-e707-44ef-a95c-0a3b7c64065a" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/leetcode/arrays/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/leetcode/arrays/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/leetcode/arrays/Main.java" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -43,13 +43,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main">
-    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.leetcode.strings.Main" />
+  <component name="RunManager" selected="Application.FinalPricesWithASpecialDiscountInAShop">
+    <configuration name="FinalPricesWithASpecialDiscountInAShop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.leetcode.arrays.FinalPricesWithASpecialDiscountInAShop" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.leetcode.strings.*" />
+          <option name="PATTERN" value="com.leetcode.arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -70,10 +70,52 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Maximum69Number" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.leetcode.arrays.Maximum69Number" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.leetcode.arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MiddleOfTheLinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.leetcode.arrays.MiddleOfTheLinkedList" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.leetcode.arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="destCity" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.leetcode.arrays.destCity" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.leetcode.arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FinalPricesWithASpecialDiscountInAShop" />
+        <item itemvalue="Application.Maximum69Number" />
+        <item itemvalue="Application.destCity" />
+        <item itemvalue="Application.MiddleOfTheLinkedList" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Main (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -99,6 +141,38 @@
       <workItem from="1589037146841" duration="4972000" />
       <workItem from="1589113163225" duration="3098000" />
       <workItem from="1589202809312" duration="35000" />
+      <workItem from="1589216696424" duration="836000" />
+      <workItem from="1589378922816" duration="19000" />
+      <workItem from="1589637780800" duration="4005000" />
+      <workItem from="1589719381679" duration="4919000" />
+      <workItem from="1589806626642" duration="1403000" />
+      <workItem from="1589810723471" duration="604000" />
+      <workItem from="1589905507024" duration="124000" />
+      <workItem from="1590153902777" duration="2975000" />
+      <workItem from="1590513815827" duration="995000" />
+      <workItem from="1590523301672" duration="2465000" />
+      <workItem from="1590586201919" duration="1092000" />
+      <workItem from="1590597775620" duration="216000" />
+      <workItem from="1590670586823" duration="1140000" />
+      <workItem from="1590708930173" duration="330000" />
+      <workItem from="1590709270120" duration="4063000" />
+      <workItem from="1590781324556" duration="3134000" />
+      <workItem from="1590797584350" duration="1046000" />
+      <workItem from="1590842817766" duration="5000" />
+      <workItem from="1591488453280" duration="3941000" />
+      <workItem from="1591539275396" duration="4000" />
+      <workItem from="1591551050731" duration="1241000" />
+      <workItem from="1591654268984" duration="4711000" />
+      <workItem from="1591659424426" duration="2181000" />
+      <workItem from="1591709517932" duration="3000" />
+      <workItem from="1591718560455" duration="1219000" />
+      <workItem from="1591796351020" duration="46000" />
+      <workItem from="1592408899990" duration="2144000" />
+      <workItem from="1592522779778" duration="731000" />
+      <workItem from="1592658032804" duration="349000" />
+      <workItem from="1592776965673" duration="587000" />
+      <workItem from="1592829802588" duration="8000" />
+      <workItem from="1592863700793" duration="3617000" />
     </task>
     <servers />
   </component>
@@ -157,19 +231,114 @@
           <option name="timeStamp" value="28" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/leetcode/arrays/FindTheTownJudge.java</url>
-          <line>16</line>
-          <option name="timeStamp" value="32" />
+          <url>file://$PROJECT_DIR$/src/com/leetcode/arrays/FlippingAnImage.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="35" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/leetcode/arrays/FindTheTownJudge.java</url>
+          <url>file://$PROJECT_DIR$/src/com/leetcode/arrays/FlippingAnImage.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/leetcode/arrays/ArrayPartitionI.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/leetcode/arrays/CountingBits.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/leetcode/arrays/CountingBits.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="41" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/leetcode/arrays/ReverseLinkedList.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/leetcode/arrays/MiddleOfTheLinkedList.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="44" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/leetcode/arrays/MergeTwoSortedLists.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="46" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/leetcode/arrays/MergeTwoSortedLists.java</url>
+          <line>64</line>
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/leetcode/arrays/MergeTwoSortedLists.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="48" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/leetcode/arrays/RemoveDuplicatesFromSortedList.java</url>
+          <line>46</line>
+          <option name="timeStamp" value="49" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/leetcode/arrays/RemoveDuplicatesFromSortedList.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="50" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/leetcode/arrays/QueueReconstructionByHeight.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="55" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/leetcode/arrays/CoinChange2.java</url>
           <line>6</line>
-          <option name="timeStamp" value="33" />
+          <option name="timeStamp" value="56" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/leetcode/arrays/FindTheTownJudge.java</url>
-          <line>11</line>
-          <option name="timeStamp" value="34" />
+          <url>file://$PROJECT_DIR$/src/com/leetcode/arrays/CoinChange2.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="58" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/leetcode/arrays/IntersectionOfTwoLinkedLists.java</url>
+          <line>60</line>
+          <option name="timeStamp" value="70" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/leetcode/arrays/SearchInsertPosition.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="73" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/leetcode/arrays/MiddleOfTheLinkedList.java</url>
+          <line>45</line>
+          <option name="timeStamp" value="75" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/leetcode/arrays/destCity.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="79" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/leetcode/arrays/Maximum69Number.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="83" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/leetcode/arrays/Maximum69Number.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="85" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/leetcode/arrays/FinalPricesWithASpecialDiscountInAShop.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="86" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
